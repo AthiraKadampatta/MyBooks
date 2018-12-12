@@ -1,2 +1,0 @@
-# SwatPrajAth
-Learning Repository
